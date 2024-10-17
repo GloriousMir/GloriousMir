@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mir Maruf Ahmed</h1>
-<h3 align="center">I am studying Computer science and Engineering at the American International University of Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gloriousmir&label=Profile%20views&color=0e75b6&style=flat" alt="gloriousmir" /> </p>
 
@@ -7,17 +6,14 @@
 
 <p align="left"> <a href="https://twitter.com/maruf,mir" target="blank"><img src="https://img.shields.io/twitter/follow/maruf,mir?logo=twitter&style=for-the-badge" alt="maruf,mir" /></a> </p>
 
-- 🔭 I’m currently working on [The Font Page](https://www.facebook.com/thefrontpagebd)
 
 - 🌱 I’m currently learning **Cyber Security, Designing, Coding, Social Media**
 
-- 👨‍💻 All of my projects are available at [https://gloriousmaruf.wordpress.com/](https://gloriousmaruf.wordpress.com/)
+- 👨‍💻 All of my projects are available at [https://mirmarufahmed.wordpress.com/](https://mirmarufahmed.wordpress.com/)
 
-- 💬 Ask me about **Games, Desging, Study**
+- 💬 Ask me about **Games, Design, Codes**
 
-- 📫 How to reach me **marufmir420@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
+- 📫 How to reach me **ahmedmarufmir@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
