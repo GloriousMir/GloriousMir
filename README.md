@@ -2,16 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gloriousmir&label=Profile%20views&color=0e75b6&style=flat" alt="gloriousmir" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gloriousmir" alt="gloriousmir" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/maruf,mir" target="blank"><img src="https://img.shields.io/twitter/follow/maruf,mir?logo=twitter&style=for-the-badge" alt="maruf,mir" /></a> </p>
-
-
-- 🌱 I’m currently learning **Cyber Security, Designing, Coding, Social Media**
-
 - 👨‍💻 All of my projects are available at [https://mirmarufahmed.wordpress.com/](https://mirmarufahmed.wordpress.com/)
-
-- 💬 Ask me about **Games, Design, Codes**
 
 - 📫 How to reach me **ahmedmarufmir@gmail.com**
 
